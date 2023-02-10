@@ -1,16 +1,13 @@
-# mdl_flutter_app
+# Aplikasi Ujian untuk LMS Moodle
 
-Moodle Browser Application
+Moodle Exam Browser Application
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi ujian sekolah menggunakan LMS Moodle, peseta didik membuka alamat ujian online / offline dengan scan QR Code,
+QR Code bisa didistribusikan pada kartu ujian
+Keamanan aplikasi untuk ujian :
+- Tidak bisa screenshoot
+- Peserta didik bisa keluar aplikasi / menutup aplikasi,
+  tetapi apabila masuk kembali ke mata pelajaran, ujian akan terkunci atau tidak bisa mengerjakan kembali
+- Bisa mengerjakan kembali apabila direset oleh operator atau admin LMS
